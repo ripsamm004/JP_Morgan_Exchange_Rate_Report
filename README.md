@@ -22,7 +22,7 @@ java -jar target/exchange-market-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 Total outgoing settled amount in USD on 2018-01-29 : 95125.0
 
-		Ranking report of outgoing   2018-01-29
+		Ranking report of outgoing on 2018-01-29
 +----------|----------|--------------------|--------------------+
 |Ranking   |Flag      |Entity              |Amount              |
 +----------|----------|--------------------|--------------------+
@@ -39,7 +39,7 @@ Total outgoing settled amount in USD on 2018-01-29 : 95125.0
 
 Total incoming settled amount in USD on 2018-01-29 : 1718.0
 
-		Ranking report of incoming   2018-01-29
+		Ranking report of incoming on 2018-01-29
 +----------|----------|--------------------|--------------------+
 |Ranking   |Flag      |Entity              |Amount              |
 +----------|----------|--------------------|--------------------+

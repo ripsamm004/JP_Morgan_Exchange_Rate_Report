@@ -58,7 +58,7 @@ public class ConsolePrinter implements PrinterService {
     @Override
     public void printEntityRankingListOfTheDay(LocalDate date, List<Instruction> list, InstructionTypeEnum instructionType) {
         String flag = instructionType.getFlagValue();
-        System.out.println(String.format("\n\t\t\tRanking report of %1$-10s %2$-10s", flag, date.toString()));
+        System.out.println(String.format("\n\t\t\tRanking report of %s on %2$-10s", flag, date.toString()));
         System.out.println(String.format("%1$-10s|%2$-10s|%3$-20s|%4$-20s", "+----------", "----------", "--------------------", "--------------------+"));
         System.out.println(String.format("|%1$-10s|%2$-10s|%3$-20s|%4$-20s|", "Ranking", "Flag", "Entity", "Amount"));
         System.out.println(String.format("%1$-10s|%2$-10s|%3$-20s|%4$-20s", "+----------", "----------", "--------------------", "--------------------+"));

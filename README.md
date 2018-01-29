@@ -1,4 +1,4 @@
-# JP Morgan Java Technical Test : Exchange Rate Daily Market Report
+# Exchange Rate Daily Market Report
 
 
 

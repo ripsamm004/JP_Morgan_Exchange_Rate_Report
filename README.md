@@ -1,5 +1,4 @@
-# Exchange Rate Daily Market Report
-
+# Exchange Rate Market Daily Report
 
 
 ## Requirements
@@ -8,8 +7,9 @@ Java 8 or Above
 
 
 ## BUILD PROJECT
+```
 mvn clean install
-
+```
 
 ## Example Run
 ```
@@ -18,8 +18,8 @@ java -jar target/exchange-market-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 
 ## Sample output
-```
 
+```
 Total outgoing settled amount in USD on 2018-01-29 : 95125.0
 
 		Ranking report of outgoing   2018-01-29

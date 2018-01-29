@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda16d58-bf5b-4769-9afb-5370aa67c5b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jpmorgan/services/ConsolePrinter.java" afterPath="$PROJECT_DIR$/src/main/java/com/jpmorgan/services/ConsolePrinter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -41,8 +40,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6224329">
-              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.21958926">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -746,7 +745,7 @@
       <workItem from="1517004443515" duration="47511000" />
       <workItem from="1517186029078" duration="233000" />
       <workItem from="1517186272953" duration="111000" />
-      <workItem from="1517186391843" duration="1327000" />
+      <workItem from="1517186391843" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="remove target added in gitignore">
       <created>1517186623578</created>
@@ -778,11 +777,17 @@
       <option name="project" value="LOCAL" />
       <updated>1517187217591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix align">
+      <created>1517187785764</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517187785764</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53815000" />
+    <option name="totallyTimeSpent" value="53866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="971" extended-state="6" />
@@ -832,7 +837,8 @@
     <MESSAGE value="remove target added in gitignore" />
     <MESSAGE value="add sample output" />
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="fix align" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix align" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1275,8 +1281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6224329">
-          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.21958926">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding />
         </state>
       </provider>
